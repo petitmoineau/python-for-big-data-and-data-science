@@ -1,0 +1,1 @@
+print("Anastasiia Parkhomenko, AI-2024")
